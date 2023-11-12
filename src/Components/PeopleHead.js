@@ -31,7 +31,7 @@ function PeopleHeader() {
                 {buttonsHeader.map((elem) => (
                     <ButtonHeader title1={elem.title1} title2={elem.title2}/>    
                 ))}
-                <button type="button" className='btn border col-md-2 py-2 mx-3 px-2 rounded bg-white'>More <img src={imgFilter} alt="img" className='mx-2' /></button>
+                <button type="button" className='btn border col-md-2 py-2 mx-3 px-2 rounded bg-white' >More <img src={imgFilter} alt="img" className='ms-4' id='imag' /></button>
             </div>
         </div>
     )
