@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Dashboard-2/static/css/main.e422db20.css",
+    "main.js": "/Dashboard-2/static/js/main.8f2698e0.js",
+    "static/js/787.45ee37ba.chunk.js": "/Dashboard-2/static/js/787.45ee37ba.chunk.js",
+    "static/media/BussnessWomen.jpg": "/Dashboard-2/static/media/BussnessWomen.9854a620f48ee0b527f8.jpg",
+    "static/media/employe.jpg": "/Dashboard-2/static/media/employe.1347e86901b77d8f5ddf.jpg",
+    "static/media/img-team-3.jpg": "/Dashboard-2/static/media/img-team-3.72320252579a77aa973b.jpg",
+    "static/media/2.jpg": "/Dashboard-2/static/media/2.a84e07602701aa9bc858.jpg",
+    "static/media/img-team-2.jpg": "/Dashboard-2/static/media/img-team-2.77a1037fb82668193cb1.jpg",
+    "static/media/Ellipse 82.png": "/Dashboard-2/static/media/Ellipse 82.2f7c994736c27fda20ea.png",
+    "index.html": "/Dashboard-2/index.html",
+    "main.e422db20.css.map": "/Dashboard-2/static/css/main.e422db20.css.map",
+    "main.8f2698e0.js.map": "/Dashboard-2/static/js/main.8f2698e0.js.map",
+    "787.45ee37ba.chunk.js.map": "/Dashboard-2/static/js/787.45ee37ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e422db20.css",
+    "static/js/main.8f2698e0.js"
+  ]
+}
