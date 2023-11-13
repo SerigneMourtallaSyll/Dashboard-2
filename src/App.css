@@ -239,9 +239,9 @@
   width: 90%;
 }
 
-/* .content .people #image:hover{
-  border: 3px solid #20df7f;
-} */
+.content .people .card{
+  cursor: pointer;
+}
 
 .content .people .card:hover{
   transform: scale(1.1);
